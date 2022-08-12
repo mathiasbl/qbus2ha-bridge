@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qbus2ha-bridge", "qbus2ha-bridge\qbus2ha-bridge.csproj", "{101D12A8-4501-4888-A087-1B1CB310182F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101D12A8-4501-4888-A087-1B1CB310182F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101D12A8-4501-4888-A087-1B1CB310182F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101D12A8-4501-4888-A087-1B1CB310182F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101D12A8-4501-4888-A087-1B1CB310182F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361F4606-C3A0-4D7C-ACDB-10EFAC48C1B2}
+	EndGlobalSection
+EndGlobal
